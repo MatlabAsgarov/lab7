@@ -1,0 +1,17 @@
+body {
+    margin: 50px;
+}
+input, button {
+    padding: 8px;
+    margin-right: 5px;
+    font-size: 16px;
+}
+button {
+    width: 40px;
+    cursor: pointer;
+}
+p {
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+}
