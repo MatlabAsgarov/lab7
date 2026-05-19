@@ -1,0 +1,15 @@
+body {
+    margin: 50px;
+    text-align: center; 
+}
+#sayGosterici {
+    font-size: 48px;    
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+}
